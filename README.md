@@ -44,7 +44,7 @@ A national-scale geospatial portfolio project analyzing healthcare infrastructur
 3. Cross-reference against more recent facility registries (this data is from 2014) to update the baseline
 4. Build a composite "facility quality index" combining electricity, water, sanitation, and staffing into a single comparable score per state or LGA
 
-## Limitations (stated honestly)
+## Limitations
 
 - Data is from **2014** — over a decade old. Facility counts have likely grown substantially since, especially private/urban facilities in cities like Lagos.
 - Density (facilities per land area) is a *proxy* for access, not population-adjusted access. Nigeria's last full census was in 2006, so any "facilities per capita" claim should be treated cautiously without a verified current population source.
